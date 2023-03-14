@@ -1,5 +1,5 @@
 <h1> Hello I am Jonathan Andrew Trevino 👋 </h1>
-<h4> I design and build special digital experiences</h4>
+<p> I design and build special digital experiences</p>
 
 
 <!--

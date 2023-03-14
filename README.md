@@ -1,7 +1,6 @@
-# Hello I am Jonathan Andrew Trevino 👋
+<h1> Hello I am Jonathan Andrew Trevino 👋 
 <h4> I design and build special digital experiences</h4>
 
-#
 
 <!--
 **yeahimjt/yeahimjt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

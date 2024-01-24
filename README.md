@@ -1,4 +1,4 @@
-Hi 👋 My name is Jonathan Trevino
+Hi, I'm Jonathan Trevino
 =================================
 
 I'm a passionate software engineer and full-stack developer with a knack for solving complex problems using technology. My mission is to craft exceptional digital experiences that leave end users with memorable interactions. 

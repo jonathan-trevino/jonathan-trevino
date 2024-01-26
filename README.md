@@ -1,7 +1,7 @@
 Hi, I'm Jonathan Trevino
 =================================
 
-I'm a passionate software engineer and full-stack developer with a knack for solving complex problems using technology. My mission is to craft exceptional digital experiences that leave end users with memorable interactions. 
+I'm a passionate software engineer, with a focus in front end development, with a knack for solving complex problems using technology. My mission is to craft exceptional digital experiences that leave end users with memorable interactions. 
 
 Whether it's building efficient backend systems or creating intuitive front-end interfaces, I thrive on delivering solutions that make a positive impact. 
 
